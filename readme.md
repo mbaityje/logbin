@@ -5,7 +5,7 @@ This module is for binning data. Linear binning can be done with standard librar
 
 ## Content
 
-The module contains one single file, `logbinning.py`, that has the following functions:
+The repository contains one single file, `logbinning.py`, that has the following functions:
 
 - `linbinning()`: linear binning of data
 
