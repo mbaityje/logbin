@@ -1,7 +1,5 @@
 # Logarithmic binning module
 
-Written and maintained by Marco Baity Jesi.
-
 This module is for binning data. Linear binning can be done with standard libraries such as `numpy`, but I could not find a logarithmic data binning function, so here it is.
 
 
